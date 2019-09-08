@@ -36,9 +36,6 @@
 ##a[href*="utm_"]
 ##a[href*="vn88"]
 ##a[href*="w88yes"]
-##a[rel*="nofollow"]
-##a[rel*="noopener"]
-##a[rel*="noreferrer"]
 ##img[src*="\d+bet"]
 ##img[src*="exosrv.com"]
 ##script:-abp-contains(AdBlock)
