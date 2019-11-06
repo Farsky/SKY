@@ -97,6 +97,7 @@ zingmp3.vn##.z2-zads-zone
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||steadfastsystem.com^
+||s.vnecdn.net/*/adsv1.js
 ||thiendia.com/popup.js^
 ||thiendia.com^$inline-script
 ||tuoi69.com/balloonmobl.js
