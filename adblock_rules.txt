@@ -17,8 +17,10 @@
 ##.banner_top
 ##.bannerleftvaright
 ##.bannerm
+##.box_banner_ad_vne
 ##.float-ck
 ##.img_rec_banner
+##.inner_ads
 ##.leaderboard_banner
 ##.my_nonresponsive_ads
 ##.my_responsive_ads
