@@ -17,6 +17,7 @@
 ##.banner_top
 ##.bannerleftvaright
 ##.bannerm
+##.banr-hot
 ##.box_banner_ad_vne
 ##.float-ck
 ##.img_rec_banner
