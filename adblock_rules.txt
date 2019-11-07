@@ -96,7 +96,8 @@ zingmp3.vn##.z2-zads-zone
 ||motheregarded.info^
 ||qc-static.coccoc.com^
 ||qccoccocmedia.vn^
-||s.vnecdn.net/*/adsv1.js
+||vnecdn.net/*/ads.js
+||vnecdn.net/*/adsv1.js
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||steadfastsystem.com^
