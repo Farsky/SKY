@@ -7,12 +7,13 @@
 ###left_float_ads_content
 ###right_float
 ###right_float_ads_content
-##.AdsDesktop-header
-##.adsTopHome
+##.adsbyeclick
 ##.adscenter
+##.AdsDesktop-header
 ##.adspopupleft
 ##.adspopupright
 ##.adspopuprightMB
+##.adsTopHome
 ##.banner-link
 ##.banner_top
 ##.bannerleftvaright
@@ -43,9 +44,9 @@
 ##img[src*="exosrv.com"]
 ##script:-abp-contains(AdBlock)
 ##script:contains(AdBlock)
-##script:contains(Quảng Cáo)
 ##script:contains(banner)
 ##script:contains(quangcao)
+##script:contains(Quảng Cáo)
 */adtrue*
 /adf\.ly/
 24h.com##[id^="ADS_"]
@@ -95,10 +96,10 @@ zingmp3.vn##.z2-zads-zone
 ||motheregarded.info^
 ||qc-static.coccoc.com^
 ||qccoccocmedia.vn^
+||s.vnecdn.net/*/adsv1.js
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||steadfastsystem.com^
-||s.vnecdn.net/*/adsv1.js
 ||thiendia.com/popup.js^
 ||thiendia.com^$inline-script
 ||tuoi69.com/balloonmobl.js
