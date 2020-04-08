@@ -27,6 +27,7 @@
 ##.my_nonresponsive_ads
 ##.my_responsive_ads
 ##.quangcaos
+##a[href*="affiliate"]
 ##a[href*="11bet."]
 ##a[href*="8live."]
 ##a[href*="\d+bet"]
