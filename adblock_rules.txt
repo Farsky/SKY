@@ -3,6 +3,7 @@
 ###ad_bellow_player
 ###ad_top_player
 ###edShow
+###fixedban
 ###left_float
 ###left_float_ads_content
 ###right_float
