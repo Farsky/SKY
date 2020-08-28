@@ -20,6 +20,7 @@
 ##.bannerleftvaright
 ##.bannerm
 ##.banr-hot
+##.banner-single-ads
 ##.box_banner_ad_vne
 ##.float-ck
 ##.img_rec_banner
