@@ -29,6 +29,7 @@
 ##.my_nonresponsive_ads
 ##.my_responsive_ads
 ##.quangcaos
+##.widget_saxon_text
 ##a[href*="affiliate"]
 ##a[href*="11bet."]
 ##a[href*="8live."]
