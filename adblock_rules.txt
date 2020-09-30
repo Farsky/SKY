@@ -8,6 +8,8 @@
 ###left_float_ads_content
 ###right_float
 ###right_float_ads_content
+###sticky_left
+###sticky_right
 ##.adsbyeclick
 ##.adscenter
 ##.AdsDesktop-header
