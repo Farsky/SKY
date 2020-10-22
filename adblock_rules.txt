@@ -22,6 +22,7 @@
 ##.bannerleftvaright
 ##.bannerm
 ##.banr-hot
+##.banner-add-lixi88
 ##.banner-single-ads
 ##.box_banner_ad_vne
 ##.float-ck
