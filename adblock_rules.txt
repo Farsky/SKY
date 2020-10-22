@@ -2,6 +2,7 @@
 
 ###ad_bellow_player
 ###ad_top_player
+###banner-add-lixi88
 ###edShow
 ###fixedban
 ###left_float
@@ -22,7 +23,6 @@
 ##.bannerleftvaright
 ##.bannerm
 ##.banr-hot
-##.banner-add-lixi88
 ##.banner-single-ads
 ##.box_banner_ad_vne
 ##.float-ck
