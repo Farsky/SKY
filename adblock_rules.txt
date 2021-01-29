@@ -109,10 +109,8 @@ zingmp3.vn##.z2-zads-zone
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||steadfastsystem.com^
-||thiendia.com/popup.js^
-||thiendia.com^$inline-script
-||thiendia.me/popup.js^
-||thiendia.me^$inline-script
+||thienvadia.info/popup.js^
+||thienvadia.info^$inline-script
 ||tuoi69.com/balloonmobl.js
 ||v9banners.com^
 * https://puttrotgob.com * block
