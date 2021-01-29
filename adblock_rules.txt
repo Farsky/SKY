@@ -68,7 +68,7 @@ m.fanfox.net###new-mask
 m.fanfox.net##.top-banner
 tinhte.vn##.sidebar-container
 phim.vkool.tv###boxes
-thienvadia.net##a[rel="nofollow"]
+thienvadia.info##a[rel="nofollow"]
 www.nhaccuatui.com##.adsZoneMp3
 www.nhaccuatui.com##.nqc-zone
 www.nhaccuatui.com##[class*="adv_home"]
