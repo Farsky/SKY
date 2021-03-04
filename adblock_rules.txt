@@ -69,12 +69,15 @@ m.fanfox.net##.top-banner
 tinhte.vn##.sidebar-container
 phim.vkool.tv###boxes
 thienvadia.info##a[rel="nofollow"]
+www.bongda.com.vn##.dugout-video
+www.nettruyen.com##a[rel="nofollow noopener noreferrer"]
 www.nhaccuatui.com##.adsZoneMp3
 www.nhaccuatui.com##.nqc-zone
 www.nhaccuatui.com##[class*="adv_home"]
 www.nhaccuatui.com##[id$="Mashead"]
 www.nhaccuatui.com##[id$="Popup"]
 www.phimmoi.net##script:contains(uniAd)
+www.trangtrang.com##[href*="binance"]
 www.youtube.com###masthead-ad
 zingmp3.vn###zmp3_Top
 zingmp3.vn##.z2-zads-zone
