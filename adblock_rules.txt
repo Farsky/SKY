@@ -116,4 +116,4 @@ zingmp3.vn##.z2-zads-zone
 ||thienvadia.info^$inline-script
 ||tuoi69.com/balloonmobl.js
 ||v9banners.com^
-* https://puttrotgob.com * block
+!* https://puttrotgob.com * block
