@@ -87,7 +87,6 @@ zingmp3.vn##.z2-zads-zone
 ||adf.ly^
 ||adi.admicro.vn/*$image
 ||apinas.nct.vn/v4/nqc
-||batgioistudio.com^$inline-script
 ||bit.ly^
 ||cdn.taboola.com^
 ||chatango.com^
@@ -99,11 +98,9 @@ zingmp3.vn##.z2-zads-zone
 ||fb88asia.com^
 ||finalizeforce.com^
 ||five88.com^
-||five88.com^ 
 ||gloyah.net^
 ||gmodules.com^
 ||google-analytics.com^
-||mangarock.com^$inline-script
 ||motheregarded.info^
 ||qc-static.coccoc.com^
 ||qccoccocmedia.vn^
@@ -113,7 +110,6 @@ zingmp3.vn##.z2-zads-zone
 ||scorecardresearch.com^
 ||steadfastsystem.com^
 ||thienvadia.info/popup.js^
-||thienvadia.info^$inline-script
 ||tuoi69.com/balloonmobl.js
 ||v9banners.com^
-!* https://puttrotgob.com * block
+* https://puttrotgob.com * block
