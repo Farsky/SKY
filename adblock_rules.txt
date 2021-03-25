@@ -1,5 +1,7 @@
 !AdBlock rules
 
+###adsbgleft
+###adsbgright
 ###ad_bellow_player
 ###ad_top_player
 ###banner-add-lixi88
